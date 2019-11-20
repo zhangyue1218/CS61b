@@ -1,0 +1,2 @@
+module CS61b {
+}
