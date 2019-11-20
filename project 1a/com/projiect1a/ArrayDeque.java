@@ -28,7 +28,6 @@ public class ArrayDeque {
 			nextFirst--;
 	}
 	
-	
 	public void addLast(int x) {
 		size++;
 		arr[nextLast] = x;
