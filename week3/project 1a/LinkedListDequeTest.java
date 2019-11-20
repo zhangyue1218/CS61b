@@ -1,4 +1,4 @@
-package com.projiect1a;
+package com.week3;
 
 import org.junit.Test;
 
